@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a third-year AI & Data Science student passionate about Machine Learning, Deep Learning, and AI Engineering. I enjoy building practical AI solutions and continuously exploring emerging technologies to grow as an AI/ML Engineer. <br>
+I’m a fourth-year AI & Data Science student passionate about Machine Learning, Deep Learning, and AI Engineering. I enjoy building practical AI solutions and continuously exploring emerging technologies to grow as an AI/ML Engineer. <br>
 
 
 
