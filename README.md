@@ -1,5 +1,17 @@
 # 💫 About Me:
-I’m a fourth-year AI & Data Science student passionate about Machine Learning, Deep Learning, and AI Engineering. I enjoy building practical AI solutions and continuously exploring emerging technologies to grow as an AI/ML Engineer. <br>
+# Hi, I'm Afsa Bhas 👋
+
+### AI & Data Science Student | Aspiring AI Engineer | Generative AI & Agentic AI
+
+I'm a fourth-year Artificial Intelligence and Data Science student interested in building practical AI systems that combine machine learning, large language models, retrieval-augmented generation (RAG), and agentic workflows.
+
+I enjoy turning ideas into working applications, experimenting with AI architectures, and exploring how AI can solve real-world problems. I'm also interested in entrepreneurship, product development, and the intersection of technology and business.
+
+- 🔭 Working on AI-powered applications, RAG systems, and multi-agent workflows.
+- 🤖 Interested in LLM engineering, intelligent agents, and applied machine learning.
+- 🛠️ Building projects involving document intelligence, research assistance, and codebase analysis.
+- 🌱 Continuously learning about AI engineering, deep learning, and scalable AI applications.
+- 💡 Interested in the intersection of AI, entrepreneurship, and product innovation.
 
 
 
@@ -8,8 +20,6 @@ I’m a fourth-year AI & Data Science student passionate about Machine Learning,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afsa-b-545316268/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhasafsa@gmail.com) 
 
 # 💻 Tech Stack:
-
-## 💻 Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
