@@ -1,6 +1,4 @@
 # 💫 About Me:
-# Hi, I'm Afsa Bhas 👋
-
 ### AI & Data Science Student | Aspiring AI Engineer | Generative AI & Agentic AI
 
 I'm a fourth-year Artificial Intelligence and Data Science student interested in building practical AI systems that combine machine learning, large language models, retrieval-augmented generation (RAG), and agentic workflows.
